@@ -646,16 +646,6 @@ musbhs_dma_controller_create(struct musb *musb, void __iomem *base)
 - The model is optimized for **code completion**, not instruction following. For chat/instruction use cases, further fine-tuning would be needed.
 - Evaluation uses OLMo's native tokenizer for token accuracy - cross-model comparisons carry a small tokenizer bias.
 
-## Citation
-
-```bibtex
-@misc{h2loop2026spark,
-  title={H2LooP Spark: Domain-Specialized Continual Pre-Training for Embedded Software Development},
-  author={H2LooP},
-  year={2026},
-  url={https://huggingface.co/h2loop-ai/spark-cpt-base-ckpt}
-}
-```
 
 ## About H2LooP
 
