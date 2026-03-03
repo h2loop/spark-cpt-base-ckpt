@@ -1,18 +1,3 @@
----
-license: apache-2.0
-language:
-- en
-- code
-tags:
-- embedded-systems
-- code-completion
-- continual-pretraining
-- low-level
-- firmware
-base_model: allenai/OLMo-3-1025-7B
-library_name: transformers
-pipeline_tag: text-generation
----
 
 # H2LooP Spark CPT (Preview): First Domain-Specialized Autocomplete Model for Embedded Software
 
